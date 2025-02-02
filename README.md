@@ -16,5 +16,5 @@ This Python program simulates a basic slot machine. The user starts with a balan
 
 ## Author
 
-* Sk Akib Ahammed
-* ahammedskakib@gmail.com
+* **Sk Akib Ahammed
+* **ahammedskakib@gmail.com
