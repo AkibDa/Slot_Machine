@@ -14,6 +14,12 @@ This Python program simulates a basic slot machine. The user starts with a balan
 * **Balance Tracking:** The user's balance is tracked throughout the game, and the game ends when the balance reaches zero.
 * **Clear Output:** The results of each spin are clearly displayed to the user, including the symbols landed, winnings, and updated balance.
 
+## How to Use This Repo
+
+1. Clone the repository: `git clone https://github.com/AkibDa/Slot_Machine.git` 
+2. Navigate to the directory: `cd Slot_Machine`
+3. The code examples and exercises are in main.py. 
+
 ## Author
 
 * **Sk Akib Ahammed**
